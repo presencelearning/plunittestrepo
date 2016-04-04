@@ -1,0 +1,17 @@
+{
+  "name": "plunittestrepo",
+  "version": "0.0.1",
+  "repository": "https://github.com/presencelearning/plunittestrepo",
+  "license": "private",
+  "description": "You know, for unit testing.",
+  "dependencies": {
+    "crackerjacks": "^1.4.6",
+    "pl-testertest": "git+ssh://git@github.com:presencelearning/pl-testertest.git#macklemore",
+    "pl-verytest": "git+ssh://git@github.com:presencelearning/pl-verytest.git#macklemore",
+    "pl-ohwhatatest": "git+ssh://git@github.com:presencelearning/pl-ohwhatatest.git#macklemore",
+    "godspeedyoublackemperor": "1.3.0-beta.1",
+    "betterhopeidonotunlistthis": "2.55.0",
+    "justforyou": "0.3.0",
+    "earwax": "0.0.21"
+  }
+}
